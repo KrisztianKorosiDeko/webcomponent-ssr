@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "@skatejs/ssr": "^0.19.11",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
